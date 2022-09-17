@@ -1,0 +1,62 @@
+.datosPersonales {
+    
+    border: 1px solid black;
+    margin: auto;
+    height: 210px;
+    width: 300px;
+
+}
+
+.datosOrdenador {
+
+    border: 1px solid black;
+    margin: auto;
+    height: 140px;
+    width: 300px;
+
+}
+
+.descripcion {
+
+    border: 1px solid black;
+    margin: auto;
+    height: 200px;
+    width: 300px;
+
+}
+
+.boton {
+
+    margin: auto;
+    display: grid;
+    width: 80px;
+    margin-left: 605px;
+    margin-top: 10px;
+
+}
+
+button {
+
+    padding: 10px;
+
+}
+
+legend {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+label {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+
+}
+
+input {
+
+    width: 400px;
+    margin-bottom: 10px;
+
+}
