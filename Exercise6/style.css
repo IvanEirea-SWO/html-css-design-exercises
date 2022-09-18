@@ -1,0 +1,40 @@
+body {
+
+    background-color: rgb(187, 171, 171);
+
+}
+
+h2 {
+
+    color: whitesmoke;
+    text-align: center;
+
+}
+
+table, tr, th, td {
+
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    background-color:whitesmoke;
+
+}
+
+tr, th, td {
+
+    
+
+}
+
+.dataTable {
+
+    margin: auto;
+    margin-top: 45px;
+
+    text-align: center;
+
+    display: grid;
+    width: 450px;
+    height: 170px;
+
+}
